@@ -4,7 +4,7 @@ using API_Fall_Of_The_Sun.Models;
 using BCrypt.Net;
 using API_Fall_Of_The_Sun.Data.Data;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.Data;
+using Microsoft.AspNetCore.Identity.Data
 using API_Fall_Of_The_Sun.Services;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
